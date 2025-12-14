@@ -125,14 +125,6 @@ OdontoVoice-Analytics/
 ├── resultados/            # Reportes generados
 └── ejemplo_uso.py         # Ejemplos
 ```
-
-## Niveles de Confianza
-
-- **> 0.85**: Muy alta confianza
-- **0.70 - 0.85**: Alta confianza
-- **0.50 - 0.70**: Confianza media
-- **< 0.50**: Baja confianza (revisar manualmente)
-
 ## Archivos de Audio Soportados
 
 - .wav
