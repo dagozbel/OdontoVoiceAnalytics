@@ -12,14 +12,13 @@ setup(
     name="OdontoVoice-Analytics",
     version="1.0.0",
     author="Diego Alberto Ortiz Beltrán",
-    author_email="diego.ortiz@example.com",
     description="Sistema de análisis de transcripciones telefónicas para consultorios odontológicos",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/usuario/OdontoVoice-Analytics",
+    url="https://github.com/dagozbel/OdontoVoiceAnalytics",
     project_urls={
-        "Bug Tracker": "https://github.com/usuario/OdontoVoice-Analytics/issues",
-        "Documentation": "https://github.com/usuario/OdontoVoice-Analytics/wiki",
+        "Bug Tracker": "https://github.com/dagozbel/OdontoVoiceAnalytics/issues",
+        "Documentation": "https://github.com/dagozbel/OdontoVoiceAnalytics/wiki",
     },
     packages=find_packages(),
     classifiers=[
